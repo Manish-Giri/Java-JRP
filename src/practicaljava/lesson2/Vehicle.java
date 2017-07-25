@@ -3,7 +3,7 @@ package practicaljava.lesson2;
 /**
  * Created by manishgiri on 7/24/17.
  */
-public class Vehicle {
+class Vehicle {
     String make;
     String model;
     int price;

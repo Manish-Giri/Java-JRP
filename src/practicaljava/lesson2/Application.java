@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Created by manishgiri on 7/24/17.
  */
-public class Application {
+class Application {
 
     /**
      * can print list of any type - String, Vehicle: Polymorphism
