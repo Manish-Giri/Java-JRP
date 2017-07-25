@@ -30,13 +30,24 @@ public class StockFileReader {
 	    }
 	}
 	/**
-	 * Complete the body of this method.
+	 * TODO - Complete the body of this method.
 	 * @return List
 	 * @throws IOException
 	 */
 	public List<String> readFileData() throws IOException{
 		List<String> lines = new ArrayList<String>();
 		// Insert your code here..
+        try(BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+            // capture and omit header line
+            br.readLine();
+            String line;
+            // read all lines until EOF
+            while((line = br.readLine()) != null) {
+                // String[] data = line.split(",");
+                lines.add(line);
+            }
+        }
+
 	    return lines;
 	}
 	
