@@ -1,8 +1,6 @@
-package practicaljava.lesson3;
+package practicaljava.collections.lesson3;
 
 import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.TreeSet;
 
 class Application {
 

@@ -1,9 +1,9 @@
-package practicaljava.lesson6.client;
+package practicaljava.collections.lesson6.client;
 
-// import practicaljava.lesson6.*;
-import practicaljava.lesson6.aggregators.Aggregator;
-import practicaljava.lesson6.aggregators.MeanAggregator;
-import practicaljava.lesson6.aggregators.MinAggregator;
+// import practicaljava.collections.lesson6.*;
+import practicaljava.collections.lesson6.aggregators.Aggregator;
+import practicaljava.collections.lesson6.aggregators.MeanAggregator;
+import practicaljava.collections.lesson6.aggregators.MinAggregator;
 //import lesson6.aggregators.Aggregator;
 //import aggregators.MeanAggregator;
 //import aggregators.MinAggregator;

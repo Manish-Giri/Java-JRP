@@ -1,4 +1,4 @@
-package practicaljava.lesson4;
+package practicaljava.collections.lesson4;
 
 class Employee implements Comparable<Employee> {
     String name;

@@ -1,12 +1,12 @@
-package practicaljava.lesson6.client;
+package practicaljava.collections.lesson6.client;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import practicaljava.lesson6.fileprocessors.StockFileData;
-import practicaljava.lesson6.fileprocessors.StockFileReader;
+import practicaljava.collections.lesson6.fileprocessors.StockFileData;
+import practicaljava.collections.lesson6.fileprocessors.StockFileReader;
 
 public class StockFileApplication {
 	

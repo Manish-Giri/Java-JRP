@@ -1,4 +1,4 @@
-package practicaljava.lesson2;
+package practicaljava.collections.lesson2;
 
 /**
  * Created by manishgiri on 7/24/17.

@@ -1,6 +1,4 @@
-package practicaljava.lesson3;
-
-import java.util.Objects;
+package practicaljava.collections.lesson3;
 
 class Animal {
     String name;

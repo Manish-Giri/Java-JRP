@@ -1,4 +1,4 @@
-package practicaljava.lesson4;
+package practicaljava.collections.lesson4;
 
 import java.util.ArrayList;
 import java.util.Collections;

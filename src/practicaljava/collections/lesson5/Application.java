@@ -1,4 +1,4 @@
-package practicaljava.lesson5;
+package practicaljava.collections.lesson5;
 
 import java.util.HashMap;
 import java.util.Map;

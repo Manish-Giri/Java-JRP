@@ -1,4 +1,4 @@
-package practicaljava.lesson6.aggregators;
+package practicaljava.collections.lesson6.aggregators;
 
 import java.util.List;
 

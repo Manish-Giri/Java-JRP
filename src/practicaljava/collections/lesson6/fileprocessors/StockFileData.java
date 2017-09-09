@@ -1,4 +1,4 @@
-package practicaljava.lesson6.fileprocessors;
+package practicaljava.collections.lesson6.fileprocessors;
 
 import java.util.HashMap;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package practicaljava.lesson2;
+package practicaljava.collections.lesson2;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
