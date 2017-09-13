@@ -1,4 +1,4 @@
-package practicaljava.lesson8;
+package practicaljava.generics.lesson8;
 
 class Accountant extends Employee {
     @Override

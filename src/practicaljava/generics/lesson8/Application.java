@@ -1,4 +1,4 @@
-package practicaljava.lesson8;
+package practicaljava.generics.lesson8;
 
 import java.util.ArrayList;
 import java.util.List;
